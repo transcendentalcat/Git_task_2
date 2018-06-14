@@ -6,6 +6,7 @@
            test t;
            t.print();
            Console.ReadLine("Some text");
+		   Console.ReadLine("Hello");
        }
    }
  }
