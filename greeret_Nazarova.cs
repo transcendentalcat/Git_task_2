@@ -5,7 +5,7 @@
        {
            test t;
            t.print();
-           Console.ReadLine();
+           Console.ReadLine("Some text");
        }
    }
  }
