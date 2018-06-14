@@ -2,7 +2,8 @@
    {
        public void print()
        {
-           Console.WriteLine("Csharp:");
+           Console.WriteLine("Hi everyone!");
+		   Console.WriteLine("Conflict changes");
        }
    }
    class Program
